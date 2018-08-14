@@ -1,0 +1,648 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Home 1`] = `
+<ScrollView
+  automaticallyAdjustContentInsets={false}
+  showsHorizontalScrollIndicator={false}
+  showsVerticalScrollIndicator={false}
+>
+  <List
+    renderHeader={[Function]}
+    styles={
+      Object {
+        "Arrow": Object {
+          "height": 13,
+          "marginLeft": 8,
+          "marginTop": 3,
+          "width": 8,
+        },
+        "ArrowV": Object {
+          "height": 8,
+          "marginLeft": 8,
+          "width": 13,
+        },
+        "Body": Object {
+          "backgroundColor": "#ffffff",
+          "borderTopColor": "#dddddd",
+          "borderTopWidth": 0.5,
+        },
+        "BodyBottomLine": Object {
+          "backgroundColor": "#ffffff",
+          "borderBottomColor": "#dddddd",
+          "borderBottomWidth": 0.5,
+          "bottom": 0,
+          "height": 1,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+        },
+        "Brief": Object {
+          "minHeight": 10,
+        },
+        "BriefText": Object {
+          "color": "#888888",
+          "fontSize": 15,
+          "paddingTop": 3,
+          "textAlignVertical": "center",
+        },
+        "Content": Object {
+          "color": "#000000",
+          "fontSize": 17,
+          "textAlignVertical": "center",
+        },
+        "Extra": Object {
+          "color": "#888888",
+          "fontSize": 17,
+          "textAlign": "right",
+          "textAlignVertical": "center",
+        },
+        "Footer": Object {
+          "backgroundColor": "#f5f5f9",
+          "color": "#888888",
+          "fontSize": 14,
+          "paddingHorizontal": 15,
+          "paddingVertical": 9,
+        },
+        "Header": Object {
+          "backgroundColor": "#f5f5f9",
+          "color": "#888888",
+          "fontSize": 14,
+          "paddingBottom": 9,
+          "paddingHorizontal": 15,
+          "paddingTop": 15,
+        },
+        "Item": Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffffff",
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "paddingLeft": 15,
+        },
+        "Line": Object {
+          "alignItems": "center",
+          "borderBottomColor": "#dddddd",
+          "borderBottomWidth": 0.5,
+          "flex": 1,
+          "flexDirection": "row",
+          "minHeight": 44,
+          "paddingRight": 15,
+          "paddingVertical": 6,
+        },
+        "Thumb": Object {
+          "height": 22,
+          "marginRight": 15,
+          "width": 22,
+        },
+        "column": Object {
+          "flex": 1,
+          "flexDirection": "column",
+        },
+        "multipleLine": Object {
+          "paddingVertical": 6,
+        },
+        "multipleThumb": Object {
+          "height": 36,
+          "width": 36,
+        },
+        "underlayColor": Object {
+          "backgroundColor": "#dddddd",
+        },
+      }
+    }
+  >
+    <Item
+      extra=""
+      multipleLine={false}
+      styles={
+        Object {
+          "Arrow": Object {
+            "height": 13,
+            "marginLeft": 8,
+            "marginTop": 3,
+            "width": 8,
+          },
+          "ArrowV": Object {
+            "height": 8,
+            "marginLeft": 8,
+            "width": 13,
+          },
+          "Body": Object {
+            "backgroundColor": "#ffffff",
+            "borderTopColor": "#dddddd",
+            "borderTopWidth": 0.5,
+          },
+          "BodyBottomLine": Object {
+            "backgroundColor": "#ffffff",
+            "borderBottomColor": "#dddddd",
+            "borderBottomWidth": 0.5,
+            "bottom": 0,
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+          },
+          "Brief": Object {
+            "minHeight": 10,
+          },
+          "BriefText": Object {
+            "color": "#888888",
+            "fontSize": 15,
+            "paddingTop": 3,
+            "textAlignVertical": "center",
+          },
+          "Content": Object {
+            "color": "#000000",
+            "fontSize": 17,
+            "textAlignVertical": "center",
+          },
+          "Extra": Object {
+            "color": "#888888",
+            "fontSize": 17,
+            "textAlign": "right",
+            "textAlignVertical": "center",
+          },
+          "Footer": Object {
+            "backgroundColor": "#f5f5f9",
+            "color": "#888888",
+            "fontSize": 14,
+            "paddingHorizontal": 15,
+            "paddingVertical": 9,
+          },
+          "Header": Object {
+            "backgroundColor": "#f5f5f9",
+            "color": "#888888",
+            "fontSize": 14,
+            "paddingBottom": 9,
+            "paddingHorizontal": 15,
+            "paddingTop": 15,
+          },
+          "Item": Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "paddingLeft": 15,
+          },
+          "Line": Object {
+            "alignItems": "center",
+            "borderBottomColor": "#dddddd",
+            "borderBottomWidth": 0.5,
+            "flex": 1,
+            "flexDirection": "row",
+            "minHeight": 44,
+            "paddingRight": 15,
+            "paddingVertical": 6,
+          },
+          "Thumb": Object {
+            "height": 22,
+            "marginRight": 15,
+            "width": 22,
+          },
+          "column": Object {
+            "flex": 1,
+            "flexDirection": "column",
+          },
+          "multipleLine": Object {
+            "paddingVertical": 6,
+          },
+          "multipleThumb": Object {
+            "height": 36,
+            "width": 36,
+          },
+          "underlayColor": Object {
+            "backgroundColor": "#dddddd",
+          },
+        }
+      }
+      wrap={false}
+    >
+      enode
+    </Item>
+    <Item
+      extra=""
+      multipleLine={false}
+      styles={
+        Object {
+          "Arrow": Object {
+            "height": 13,
+            "marginLeft": 8,
+            "marginTop": 3,
+            "width": 8,
+          },
+          "ArrowV": Object {
+            "height": 8,
+            "marginLeft": 8,
+            "width": 13,
+          },
+          "Body": Object {
+            "backgroundColor": "#ffffff",
+            "borderTopColor": "#dddddd",
+            "borderTopWidth": 0.5,
+          },
+          "BodyBottomLine": Object {
+            "backgroundColor": "#ffffff",
+            "borderBottomColor": "#dddddd",
+            "borderBottomWidth": 0.5,
+            "bottom": 0,
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+          },
+          "Brief": Object {
+            "minHeight": 10,
+          },
+          "BriefText": Object {
+            "color": "#888888",
+            "fontSize": 15,
+            "paddingTop": 3,
+            "textAlignVertical": "center",
+          },
+          "Content": Object {
+            "color": "#000000",
+            "fontSize": 17,
+            "textAlignVertical": "center",
+          },
+          "Extra": Object {
+            "color": "#888888",
+            "fontSize": 17,
+            "textAlign": "right",
+            "textAlignVertical": "center",
+          },
+          "Footer": Object {
+            "backgroundColor": "#f5f5f9",
+            "color": "#888888",
+            "fontSize": 14,
+            "paddingHorizontal": 15,
+            "paddingVertical": 9,
+          },
+          "Header": Object {
+            "backgroundColor": "#f5f5f9",
+            "color": "#888888",
+            "fontSize": 14,
+            "paddingBottom": 9,
+            "paddingHorizontal": 15,
+            "paddingTop": 15,
+          },
+          "Item": Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "paddingLeft": 15,
+          },
+          "Line": Object {
+            "alignItems": "center",
+            "borderBottomColor": "#dddddd",
+            "borderBottomWidth": 0.5,
+            "flex": 1,
+            "flexDirection": "row",
+            "minHeight": 44,
+            "paddingRight": 15,
+            "paddingVertical": 6,
+          },
+          "Thumb": Object {
+            "height": 22,
+            "marginRight": 15,
+            "width": 22,
+          },
+          "column": Object {
+            "flex": 1,
+            "flexDirection": "column",
+          },
+          "multipleLine": Object {
+            "paddingVertical": 6,
+          },
+          "multipleThumb": Object {
+            "height": 36,
+            "width": 36,
+          },
+          "underlayColor": Object {
+            "backgroundColor": "#dddddd",
+          },
+        }
+      }
+      wrap={false}
+    >
+      name
+    </Item>
+  </List>
+  <List
+    renderHeader={[Function]}
+    styles={
+      Object {
+        "Arrow": Object {
+          "height": 13,
+          "marginLeft": 8,
+          "marginTop": 3,
+          "width": 8,
+        },
+        "ArrowV": Object {
+          "height": 8,
+          "marginLeft": 8,
+          "width": 13,
+        },
+        "Body": Object {
+          "backgroundColor": "#ffffff",
+          "borderTopColor": "#dddddd",
+          "borderTopWidth": 0.5,
+        },
+        "BodyBottomLine": Object {
+          "backgroundColor": "#ffffff",
+          "borderBottomColor": "#dddddd",
+          "borderBottomWidth": 0.5,
+          "bottom": 0,
+          "height": 1,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+        },
+        "Brief": Object {
+          "minHeight": 10,
+        },
+        "BriefText": Object {
+          "color": "#888888",
+          "fontSize": 15,
+          "paddingTop": 3,
+          "textAlignVertical": "center",
+        },
+        "Content": Object {
+          "color": "#000000",
+          "fontSize": 17,
+          "textAlignVertical": "center",
+        },
+        "Extra": Object {
+          "color": "#888888",
+          "fontSize": 17,
+          "textAlign": "right",
+          "textAlignVertical": "center",
+        },
+        "Footer": Object {
+          "backgroundColor": "#f5f5f9",
+          "color": "#888888",
+          "fontSize": 14,
+          "paddingHorizontal": 15,
+          "paddingVertical": 9,
+        },
+        "Header": Object {
+          "backgroundColor": "#f5f5f9",
+          "color": "#888888",
+          "fontSize": 14,
+          "paddingBottom": 9,
+          "paddingHorizontal": 15,
+          "paddingTop": 15,
+        },
+        "Item": Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffffff",
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "paddingLeft": 15,
+        },
+        "Line": Object {
+          "alignItems": "center",
+          "borderBottomColor": "#dddddd",
+          "borderBottomWidth": 0.5,
+          "flex": 1,
+          "flexDirection": "row",
+          "minHeight": 44,
+          "paddingRight": 15,
+          "paddingVertical": 6,
+        },
+        "Thumb": Object {
+          "height": 22,
+          "marginRight": 15,
+          "width": 22,
+        },
+        "column": Object {
+          "flex": 1,
+          "flexDirection": "column",
+        },
+        "multipleLine": Object {
+          "paddingVertical": 6,
+        },
+        "multipleThumb": Object {
+          "height": 36,
+          "width": 36,
+        },
+        "underlayColor": Object {
+          "backgroundColor": "#dddddd",
+        },
+      }
+    }
+  >
+    <Item
+      extra=""
+      multipleLine={false}
+      styles={
+        Object {
+          "Arrow": Object {
+            "height": 13,
+            "marginLeft": 8,
+            "marginTop": 3,
+            "width": 8,
+          },
+          "ArrowV": Object {
+            "height": 8,
+            "marginLeft": 8,
+            "width": 13,
+          },
+          "Body": Object {
+            "backgroundColor": "#ffffff",
+            "borderTopColor": "#dddddd",
+            "borderTopWidth": 0.5,
+          },
+          "BodyBottomLine": Object {
+            "backgroundColor": "#ffffff",
+            "borderBottomColor": "#dddddd",
+            "borderBottomWidth": 0.5,
+            "bottom": 0,
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+          },
+          "Brief": Object {
+            "minHeight": 10,
+          },
+          "BriefText": Object {
+            "color": "#888888",
+            "fontSize": 15,
+            "paddingTop": 3,
+            "textAlignVertical": "center",
+          },
+          "Content": Object {
+            "color": "#000000",
+            "fontSize": 17,
+            "textAlignVertical": "center",
+          },
+          "Extra": Object {
+            "color": "#888888",
+            "fontSize": 17,
+            "textAlign": "right",
+            "textAlignVertical": "center",
+          },
+          "Footer": Object {
+            "backgroundColor": "#f5f5f9",
+            "color": "#888888",
+            "fontSize": 14,
+            "paddingHorizontal": 15,
+            "paddingVertical": 9,
+          },
+          "Header": Object {
+            "backgroundColor": "#f5f5f9",
+            "color": "#888888",
+            "fontSize": 14,
+            "paddingBottom": 9,
+            "paddingHorizontal": 15,
+            "paddingTop": 15,
+          },
+          "Item": Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "paddingLeft": 15,
+          },
+          "Line": Object {
+            "alignItems": "center",
+            "borderBottomColor": "#dddddd",
+            "borderBottomWidth": 0.5,
+            "flex": 1,
+            "flexDirection": "row",
+            "minHeight": 44,
+            "paddingRight": 15,
+            "paddingVertical": 6,
+          },
+          "Thumb": Object {
+            "height": 22,
+            "marginRight": 15,
+            "width": 22,
+          },
+          "column": Object {
+            "flex": 1,
+            "flexDirection": "column",
+          },
+          "multipleLine": Object {
+            "paddingVertical": 6,
+          },
+          "multipleThumb": Object {
+            "height": 36,
+            "width": 36,
+          },
+          "underlayColor": Object {
+            "backgroundColor": "#dddddd",
+          },
+        }
+      }
+      wrap={false}
+    >
+      hash
+    </Item>
+  </List>
+  <List
+    renderHeader={[Function]}
+    styles={
+      Object {
+        "Arrow": Object {
+          "height": 13,
+          "marginLeft": 8,
+          "marginTop": 3,
+          "width": 8,
+        },
+        "ArrowV": Object {
+          "height": 8,
+          "marginLeft": 8,
+          "width": 13,
+        },
+        "Body": Object {
+          "backgroundColor": "#ffffff",
+          "borderTopColor": "#dddddd",
+          "borderTopWidth": 0.5,
+        },
+        "BodyBottomLine": Object {
+          "backgroundColor": "#ffffff",
+          "borderBottomColor": "#dddddd",
+          "borderBottomWidth": 0.5,
+          "bottom": 0,
+          "height": 1,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+        },
+        "Brief": Object {
+          "minHeight": 10,
+        },
+        "BriefText": Object {
+          "color": "#888888",
+          "fontSize": 15,
+          "paddingTop": 3,
+          "textAlignVertical": "center",
+        },
+        "Content": Object {
+          "color": "#000000",
+          "fontSize": 17,
+          "textAlignVertical": "center",
+        },
+        "Extra": Object {
+          "color": "#888888",
+          "fontSize": 17,
+          "textAlign": "right",
+          "textAlignVertical": "center",
+        },
+        "Footer": Object {
+          "backgroundColor": "#f5f5f9",
+          "color": "#888888",
+          "fontSize": 14,
+          "paddingHorizontal": 15,
+          "paddingVertical": 9,
+        },
+        "Header": Object {
+          "backgroundColor": "#f5f5f9",
+          "color": "#888888",
+          "fontSize": 14,
+          "paddingBottom": 9,
+          "paddingHorizontal": 15,
+          "paddingTop": 15,
+        },
+        "Item": Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffffff",
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "paddingLeft": 15,
+        },
+        "Line": Object {
+          "alignItems": "center",
+          "borderBottomColor": "#dddddd",
+          "borderBottomWidth": 0.5,
+          "flex": 1,
+          "flexDirection": "row",
+          "minHeight": 44,
+          "paddingRight": 15,
+          "paddingVertical": 6,
+        },
+        "Thumb": Object {
+          "height": 22,
+          "marginRight": 15,
+          "width": 22,
+        },
+        "column": Object {
+          "flex": 1,
+          "flexDirection": "column",
+        },
+        "multipleLine": Object {
+          "paddingVertical": 6,
+        },
+        "multipleThumb": Object {
+          "height": 36,
+          "width": 36,
+        },
+        "underlayColor": Object {
+          "backgroundColor": "#dddddd",
+        },
+      }
+    }
+  />
+</ScrollView>
+`;

@@ -1,6 +1,6 @@
 # Ethereum Hot Wallet
 
-> A react-native hot wallet communicate with geth node service.
+> A react-native hot wallet that communicates with geth node.
 
 [![Travis][travis-badge]][travis]
 [![Codecov Status][codecov-badge]][codecov]

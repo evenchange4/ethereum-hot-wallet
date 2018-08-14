@@ -16,7 +16,10 @@
   "stateRoot": "0xe924145ad92ea443a8bcaf7fdf28f9b702097af6ea4d62b91883a5a563f27a10",
   "timestamp": 1448789237,
   "totalDifficulty": "3588404905402599053",
-  "transactions": ["0x4b6776c238213a86fa01852f6faeec4f38a4ca5248b488166abc1efef407da06", "0xd6a80a88b9564aa7580b90ca2e5fec8da9d113f54370f86f72fcf0e40f05d131"],
+  "transactions": [
+    "0x4b6776c238213a86fa01852f6faeec4f38a4ca5248b488166abc1efef407da06",
+    "0xd6a80a88b9564aa7580b90ca2e5fec8da9d113f54370f86f72fcf0e40f05d131"
+  ],
   "transactionsRoot": "0x9dab3774fdc0cbacc38eabcb9ddda48d44831b1f5b9f80eff6ddb97e5f3f187a",
   "uncles": []
 }

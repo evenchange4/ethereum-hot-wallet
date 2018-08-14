@@ -8,24 +8,41 @@
     "start": "react-native-scripts start",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "jest"
+    "test": "NODE_ENV='test' TZ='UTC' jest --coverage",
+    "test:watch": "npm run test -- --watch"
   },
   "dependencies": {
     "antd-mobile-rn": "^2.2.1",
     "babel-plugin-macros": "^2.4.0",
     "dotenv.macro": "^1.0.0",
     "expo": "^27.0.1",
-    "react": "16.3.1",
+    "react": "16.4.2",
     "react-native": "~0.55.2",
     "react-native-router-flux": "^4.0.1"
   },
   "devDependencies": {
+    "enzyme": "^3.4.1",
+    "enzyme-adapter-react-16": "^1.2.0",
+    "enzyme-to-json": "^3.3.4",
     "flow-bin": "^0.78.0",
     "jest-expo": "~27.0.0",
-    "react-native-scripts": "1.14.0",
-    "react-test-renderer": "16.3.1"
+    "react-native-scripts": "1.14.0"
   },
   "jest": {
-    "preset": "jest-expo"
+    "preset": "jest-expo",
+    "setupTestFrameworkScriptFile": "<rootDir>/setupTests.js",
+    "testURL": "http://localhost/",
+    "collectCoverageFrom": [
+      "{components,pages,utils}/**/*.{js,jsx}",
+      "!{components,pages,utils}/**/*.test.{js,jsx}",
+      "!{components,pages,utils}/**/*.example.{js,jsx}"
+    ],
+    "testPathIgnorePatterns": [
+      "<rootDir>/node_modules/",
+      "<rootDir>/lib/",
+      "<rootDir>/.expo/"
+    ],
+    "resetMocks": true,
+    "resetModules": true
   }
 }
