@@ -10,8 +10,7 @@
     "flow": "flow",
     "flow-coverage": "flow-coverage-report",
     "eslint": "eslint ./",
-    "format": "prettier --write 'packages/**/*.{js,json,md}' '*.{json,md,js}'",
-    "release": "lerna publish --conventional-commits --changelog-preset=angular"
+    "format": "prettier --write 'packages/**/*.{js,json,md}' '*.{json,md,js}'"
   },
   "devDependencies": {
     "babel-eslint": "8.2.6",
@@ -57,7 +56,7 @@
     "type": [
       "text"
     ],
-    "threshold": 80
+    "threshold": 76
   },
   "eslintConfig": {
     "parser": "babel-eslint",

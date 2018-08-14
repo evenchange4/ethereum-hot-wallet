@@ -2,7 +2,6 @@ FROM node:10.8.0
 WORKDIR /app
 COPY . .
 
-# RUN apk add --no-cache git python
 RUN yarn install --pure-lockfile
 RUN yarn run build
 RUN yarn install --pure-lockfile --production
