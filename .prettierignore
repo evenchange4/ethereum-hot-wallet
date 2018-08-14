@@ -1,0 +1,12 @@
+# library
+packages/*/lib/
+
+# web
+
+# flow
+flow-typed/
+
+# test
+coverage/
+
+# server

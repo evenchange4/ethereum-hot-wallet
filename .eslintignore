@@ -1,0 +1,15 @@
+node_modules/
+
+# jest
+coverage/
+
+# server
+
+
+# web
+
+# flow
+flow-typed/
+
+# library
+packages/*/lib/

@@ -1,0 +1,10 @@
+{
+  "lerna": "3.0.3",
+  "version": "independent",
+  "npmClient": "yarn",
+  "command": {
+    "run": {
+      "parallel": "true"
+    }
+  }
+}

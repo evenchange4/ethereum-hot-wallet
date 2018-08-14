@@ -1,0 +1,28 @@
+node_modules/
+
+# files
+npm-debug.log
+lerna-debug.log
+.DS_Store
+yarn-error.log
+
+# jest
+coverage/
+
+# pkg
+pkg
+
+# web
+.next
+storybook-static
+
+# dot-env
+.env
+
+# docker compose
+docker-compose.yml
+
+# library
+packages/*/lib/
+
+# server
