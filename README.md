@@ -75,6 +75,8 @@ Endpoint example:
 - http://localhost:3000/transaction/0x4b6776c238213a86fa01852f6faeec4f38a4ca5248b488166abc1efef407da06
 - http://localhost:3000/transaction/0xd6a80a88b9564aa7580b90ca2e5fec8da9d113f54370f86f72fcf0e40f05d131
 
+> Rate-limiting 1 requests per sec.
+
 | **Variable**    | **Default** | **Description**         |
 | --------------- | ----------- | ----------------------- |
 | PORT            |             |                         |
