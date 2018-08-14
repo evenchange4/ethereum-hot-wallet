@@ -10,3 +10,6 @@ flow-typed/
 coverage/
 
 # server
+
+# mobile
+packages/mobile/.expo

@@ -21,6 +21,7 @@ const block = async (req: Req, res: Res) => {
         'miner',
         'parentHash',
         'totalDifficulty',
+        'transactions',
       ])(data),
     );
   } catch (error) {

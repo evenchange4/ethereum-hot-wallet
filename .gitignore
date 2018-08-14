@@ -16,6 +16,9 @@ pkg
 .next
 storybook-static
 
+# mobile
+packages/mobile/.expo
+
 # dot-env
 .env
 

@@ -6,9 +6,10 @@ $ brew install ethereum
 $ geth --rpc --rpcaddr localhost --rpcport 8545 --rpcapi "eth,net,web3,admin"
 ```
 
-http://localhost:4000/node
-http://localhost:4000/block/614060
-http://localhost:4000/transaction/0xe9e91f1ee4b56c0df2e9f06c2b8c27c6076195a88a7b8537ba8313d80e6f124e
+http://localhost:3000/node
+http://localhost:3000/block/614060
+http://localhost:3000/transaction/0x4b6776c238213a86fa01852f6faeec4f38a4ca5248b488166abc1efef407da06
+http://localhost:3000/transaction/0xd6a80a88b9564aa7580b90ca2e5fec8da9d113f54370f86f72fcf0e40f05d131
 
 ```shell
 $ cd packages/server
