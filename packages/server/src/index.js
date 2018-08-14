@@ -3,6 +3,7 @@
 import './utils/dotenv';
 import { router, get } from 'microrouter';
 import Web3 from 'web3';
+import health from './routes/health';
 import nodeInfo from './routes/nodeInfo';
 import block from './routes/block';
 import transaction from './routes/transaction';
@@ -17,6 +18,7 @@ log(`Connect to Node RPC: ${NODE_RPC_DOMAIN}`);
 const web3 = extend(new Web3(new Web3.providers.HttpProvider(NODE_RPC_DOMAIN)));
 
 export default router(
+  get('/health', health),
   get('/node', middleware(web3)(nodeInfo)),
   get('/block/:blockNumber', middleware(web3)(block)),
   get('/transaction/:transactionHash', middleware(web3)(transaction)),

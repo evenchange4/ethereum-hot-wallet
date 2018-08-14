@@ -4,7 +4,7 @@ node_modules/
 coverage/
 
 # server
-
+packages/server/pkg/
 
 # web
 

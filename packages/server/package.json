@@ -2,27 +2,23 @@
   "private": true,
   "name": "server",
   "version": "0.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "micro lib/index.js",
     "dev": "babel-node node_modules/.bin/micro-dev src/index.js",
     "build": "rm -rf lib && NODE_ENV='production' babel src -d lib --ignore '*/__tests__,*/__mock-data__'",
-    "pkg": "rm -rf pkg && pkg . --out-path pkg",
-    "eslint": "eslint ./",
-    "format": "prettier --trailing-comma all --single-quote --write '{src,bin}/**/*.js'",
-    "test": "NODE_ENV='test' TZ='UTC' jest --coverage --runInBand --forceExit",
+    "test": "NODE_ENV='test' TZ='UTC' jest --coverage",
     "test:watch": "npm run test -- --watch"
   },
   "dependencies": {
-    "debug": "^3.1.0",
-    "dotenv-safe": "^6.0.0",
-    "micro": "^9.3.3",
-    "micro-compress": "^1.0.0",
-    "micro-ratelimit": "^0.3.0",
-    "microrouter": "^3.1.3",
-    "ramda": "^0.25.0",
-    "web3": "^1.0.0-beta.35"
+    "debug": "3.1.0",
+    "dotenv-safe": "6.0.0",
+    "micro": "9.3.3",
+    "micro-compress": "1.0.0",
+    "micro-ratelimit": "0.3.0",
+    "microrouter": "3.1.3",
+    "ramda": "0.25.0",
+    "web3": "1.0.0-beta.35"
   },
   "devDependencies": {
     "@babel/cli": "7.0.0-rc.1",
@@ -36,8 +32,7 @@
     "babel-plugin-add-module-exports": "0.3.2",
     "flow-bin": "0.78.0",
     "jest": "23.5.0",
-    "micro-dev": "^3.0.0",
-    "pkg": "4.3.4"
+    "micro-dev": "3.0.0"
   },
   "jest": {
     "testEnvironment": "node",

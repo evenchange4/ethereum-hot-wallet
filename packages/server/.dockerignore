@@ -1,0 +1,16 @@
+coverage/
+node_modules/
+
+# build
+lib/
+pkg/
+
+# env
+.env
+
+# docker
+Dockerfile
+.dockerignore
+
+# git
+.git
