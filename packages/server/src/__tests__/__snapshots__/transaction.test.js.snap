@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should return correct json data 1`] = `"{\\"blockHash\\":\\"0x8e38b4dbf6b11fcc3b9dee84fb7986e29ca0a02cecd8977c161ff7333329681e\\",\\"blockNumber\\":1000000,\\"from\\":\\"0x32Be343B94f860124dC4fEe278FDCBD38C102D88\\",\\"gas\\":50000,\\"gasPrice\\":\\"60000000000\\",\\"hash\\":\\"0xe9e91f1ee4b56c0df2e9f06c2b8c27c6076195a88a7b8537ba8313d80e6f124e\\",\\"nonce\\":17387,\\"to\\":\\"0xDf190dC7190dfba737d7777a163445b7Fff16133\\",\\"value\\":\\"437194980000000000\\"}"`;

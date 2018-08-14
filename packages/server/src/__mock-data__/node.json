@@ -1,0 +1,31 @@
+{
+  "id": "a18907c4c4e27e1bb457f17b098499913b66bd99cd6a4dfd2a315ca23a0f09bb05a6a838f4d0e107c60d19df4c0e41dc34de5a3c30435f5d84904461aa9b",
+  "name": "Geth/v1.8.13-stable/darwin-amd64/go1.10.3",
+  "enode": "enode://a18907c4c4e27e1bb417b098499913b66bd99bd74cd6a4dfd2a315ca23a0f09bb05a6a838f4d0e107c60d19df4c0e41dc34de5a3c30435f5d84904461aa9b@192.168.1.101:30303",
+  "ip": "192.168.1.101",
+  "ports": {
+    "discovery": 30303,
+    "listener": 30303
+  },
+  "listenAddr": "[::]:30303",
+  "protocols": {
+    "eth": {
+      "network": 1,
+      "difficulty": 17179869184,
+      "genesis": "0xd4e56740f876aef8c010b86a40d5f56748d0906a34e69aec8c0db1cb8fa3",
+      "config": {
+        "chainId": 1,
+        "homesteadBlock": 1150000,
+        "daoForkBlock": 1920000,
+        "daoForkSupport": true,
+        "eip150Block": 2463000,
+        "eip150Hash": "0x2086799aeebeae135c246c65021c82b4e15a2c40993aacfd2751886514f0",
+        "eip155Block": 2675000,
+        "eip158Block": 2675000,
+        "byzantiumBlock": 4370000,
+        "ethash": {}
+      },
+      "head": "0xd4e56740f876aef8c010b86a40d5f56745a11906a34e69aec8c0db1cb8fa3"
+    }
+  }
+}
