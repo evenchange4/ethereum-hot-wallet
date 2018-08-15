@@ -723,7 +723,7 @@ ansi@^0.3.0, ansi@~0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/ansi/-/ansi-0.3.1.tgz#0c42d4fb17160d5a9af1e484bace1c66922c1b21"
 
-antd-mobile-rn@^2.2.1:
+antd-mobile-rn@2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/antd-mobile-rn/-/antd-mobile-rn-2.2.1.tgz#fd1909f0a3b7c15185f76f5f24e5e09f53a18480"
   dependencies:
@@ -1167,7 +1167,7 @@ babel-plugin-macros@2.0.0:
   dependencies:
     cosmiconfig "3.1.0"
 
-babel-plugin-macros@^2.4.0:
+babel-plugin-macros@2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-2.4.0.tgz#6c5f9836e1f6c0a9743b3bab4af29f73e437e544"
   dependencies:
@@ -2545,7 +2545,7 @@ dotenv-expand@4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-4.0.1.tgz#68fddc1561814e0a10964111057ff138ced7d7a8"
 
-dotenv.macro@^1.0.0:
+dotenv.macro@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/dotenv.macro/-/dotenv.macro-1.0.0.tgz#149b13fb3f51c66d5802db57d914b82b4707e170"
   dependencies:
@@ -2602,7 +2602,7 @@ envinfo@^3.0.0:
     os-name "^2.0.1"
     which "^1.2.14"
 
-enzyme-adapter-react-16@^1.2.0:
+enzyme-adapter-react-16@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/enzyme-adapter-react-16/-/enzyme-adapter-react-16-1.2.0.tgz#c6e80f334e0a817873262d7d01ee9e4747e3c97e"
   dependencies:
@@ -2623,13 +2623,13 @@ enzyme-adapter-utils@^1.5.0:
     object.assign "^4.1.0"
     prop-types "^15.6.2"
 
-enzyme-to-json@^3.3.4:
+enzyme-to-json@3.3.4:
   version "3.3.4"
   resolved "https://registry.yarnpkg.com/enzyme-to-json/-/enzyme-to-json-3.3.4.tgz#67c6040e931182f183418af2eb9f4323258aa77f"
   dependencies:
     lodash "^4.17.4"
 
-enzyme@^3.4.1:
+enzyme@3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/enzyme/-/enzyme-3.4.1.tgz#d305af5bdb30b8aca56d199110421588c670ea0e"
   dependencies:
@@ -2830,7 +2830,7 @@ expect@^22.4.0:
     jest-message-util "^22.4.3"
     jest-regex-util "^22.4.3"
 
-expo@^27.0.1:
+expo@27.1.1:
   version "27.1.1"
   resolved "https://registry.yarnpkg.com/expo/-/expo-27.1.1.tgz#d1eabfb86a9799d0cfd8defab60d3f2dfc05b035"
   dependencies:
@@ -3107,7 +3107,7 @@ find-up@^2.0.0, find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-flow-bin@^0.78.0:
+flow-bin@0.78.0:
   version "0.78.0"
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.78.0.tgz#df9fe7f9c9a2dfaff39083949fe2d831b41627b7"
 
@@ -4137,7 +4137,7 @@ jest-environment-node@^22.4.1:
     jest-mock "^22.4.3"
     jest-util "^22.4.3"
 
-jest-expo@~27.0.0:
+jest-expo@27.0.1:
   version "27.0.1"
   resolved "https://registry.yarnpkg.com/jest-expo/-/jest-expo-27.0.1.tgz#8b1a97a8be167528b4b6cdfa5f459348f0b66026"
   dependencies:
@@ -6045,7 +6045,7 @@ react-native-menu@^0.23.0:
     prop-types "^15.5.10"
     react-timer-mixin "^0.13.3"
 
-react-native-router-flux@^4.0.1:
+react-native-router-flux@4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/react-native-router-flux/-/react-native-router-flux-4.0.1.tgz#78eeb01395aeec268292912c8d88bf1264a68e82"
   dependencies:
@@ -6141,7 +6141,7 @@ react-native-web-maps@^0.1.0:
   dependencies:
     react-google-maps "^7.3.0"
 
-react-native@~0.55.2:
+react-native@0.55.4:
   version "0.55.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.55.4.tgz#eecffada3750a928e2ddd07cf11d857ae9751c30"
   dependencies:
