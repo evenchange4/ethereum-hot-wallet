@@ -33,9 +33,9 @@
     "flow-bin": "0.78.0",
     "jest": "23.5.0",
     "micro-dev": "3.0.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2",
-    "test-listen": "^1.1.0"
+    "request": "2.88.0",
+    "request-promise": "4.2.2",
+    "test-listen": "1.1.0"
   },
   "jest": {
     "testEnvironment": "node",
