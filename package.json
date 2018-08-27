@@ -13,7 +13,7 @@
     "format": "prettier --write 'packages/**/*.{js,json,md}' '*.{json,md,js}'"
   },
   "devDependencies": {
-    "babel-eslint": "8.2.6",
+    "babel-eslint": "9.0.0",
     "codecov": "3.0.4",
     "eslint": "5.3.0",
     "eslint-config-airbnb": "17.1.0",
