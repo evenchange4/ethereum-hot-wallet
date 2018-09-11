@@ -15,7 +15,7 @@
     "antd-mobile-rn": "2.2.1",
     "babel-plugin-macros": "2.4.0",
     "dotenv.macro": "1.0.0",
-    "expo": "27.1.1",
+    "expo": "29.0.1",
     "react": "16.4.2",
     "react-native": "0.55.4",
     "react-native-router-flux": "4.0.1"
