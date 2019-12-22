@@ -21,7 +21,7 @@
     "react-native-router-flux": "4.0.1"
   },
   "devDependencies": {
-    "enzyme": "3.4.1",
+    "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.2.0",
     "enzyme-to-json": "3.3.4",
     "flow-bin": "0.78.0",
