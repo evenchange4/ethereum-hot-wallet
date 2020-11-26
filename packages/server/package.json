@@ -11,7 +11,7 @@
     "test:watch": "npm run test -- --watch"
   },
   "dependencies": {
-    "debug": "3.1.0",
+    "debug": "3.2.7",
     "dotenv-safe": "6.0.0",
     "micro": "9.3.3",
     "micro-compress": "1.0.0",
