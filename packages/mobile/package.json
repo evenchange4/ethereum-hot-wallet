@@ -23,7 +23,7 @@
   "devDependencies": {
     "enzyme": "3.4.1",
     "enzyme-adapter-react-16": "1.2.0",
-    "enzyme-to-json": "3.3.4",
+    "enzyme-to-json": "3.6.2",
     "flow-bin": "0.78.0",
     "jest-expo": "27.0.1",
     "react-native-scripts": "1.14.0"
