@@ -2220,9 +2220,10 @@ find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-flow-bin@0.78.0:
-  version "0.78.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.78.0.tgz#df9fe7f9c9a2dfaff39083949fe2d831b41627b7"
+flow-bin@0.332.0:
+  version "0.332.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.332.0.tgz#b83761b61c1d4fd22a74a6882035da671556fb32"
+  integrity sha512-Vf1fSgUkwKwwN/xt2vFHxiML8g6BBGXbKHlgZm4R//bNp+pc9DMKQ5F0vsTXdBMaeHrFur1U5Lonh9w2bxb8nA==
 
 for-each@^0.3.2:
   version "0.3.3"
