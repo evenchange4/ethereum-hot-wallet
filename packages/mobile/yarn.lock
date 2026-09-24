@@ -3107,9 +3107,10 @@ find-up@^2.0.0, find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-flow-bin@0.78.0:
-  version "0.78.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.78.0.tgz#df9fe7f9c9a2dfaff39083949fe2d831b41627b7"
+flow-bin@0.333.0:
+  version "0.333.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.333.0.tgz#6f44cb45b7772ab1a8a0ad9bb658de9ea0953c18"
+  integrity sha512-cDI5lcb0mbWUmkKs09hTaPEprQzrV+XKp1YzBLgNG13uzr1kM3qhYxZFx766f3an7LmD2lD9BzNbNu+hw4YHew==
 
 follow-redirects@^1.2.3:
   version "1.5.5"
