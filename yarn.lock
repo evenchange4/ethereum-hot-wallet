@@ -2011,9 +2011,10 @@ flow-annotation-check@1.8.0:
     glob "7.1.1"
     load-pkg "^3.0.1"
 
-flow-bin@0.78.0:
-  version "0.78.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.78.0.tgz#df9fe7f9c9a2dfaff39083949fe2d831b41627b7"
+flow-bin@0.340.0:
+  version "0.340.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.340.0.tgz#f3edbe6f235c9bc9ff735e5cae1dc8b0a96d55f7"
+  integrity sha512-XourZh2487go6B2RTIssruf5iH1rVATg7IdE8CGfMbey/93RJR5HTsqQEgVK33lmGhew8fTRLZmeSEyMVubMpw==
 
 flow-coverage-report@0.5.0:
   version "0.5.0"
